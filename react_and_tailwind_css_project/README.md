@@ -54,6 +54,10 @@ react_and_tailwind_css_project/
 - `npm run lint` – Lint the codebase
 - `npm run preview` – Preview the production build
 
+## Output 
+<img src="https://github.com/PAJadhav28/react-tailwind-css-project/blob/main/react_and_tailwind_css_project/SnapShot/Img1.png" > 
+<img src="https://github.com/PAJadhav28/react-tailwind-css-project/blob/main/react_and_tailwind_css_project/SnapShot/Img2.png" > 
+
 ## Deployment
 To deploy your app, build it using:
 ```sh
